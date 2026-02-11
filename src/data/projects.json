@@ -1,0 +1,193 @@
+{
+  "projects": [
+    {
+      "id": "project-1",
+      "title": "E-Commerce Platform",
+      "description": "A modern e-commerce platform with React and Node.js",
+      "fullDescription": "Built a full-stack e-commerce platform featuring real-time inventory management, payment integration with Stripe, and responsive design. Implemented advanced search and filtering capabilities with Elasticsearch.",
+      "image": "https://images.unsplash.com/photo-1557821552-17105176677c?w=500&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1557821552-17105176677c?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1460925895917-adf4e565db6d?w=800&h=600&fit=crop"
+      ],
+      "technologies": ["React", "Node.js", "MongoDB", "Stripe", "Tailwind CSS"],
+      "featured": true,
+      "links": {
+        "github": "https://github.com",
+        "live": "https://example.com",
+        "details": "https://example.com"
+      }
+    },
+    {
+      "id": "project-2",
+      "title": "Task Management App",
+      "description": "Collaborative task management with real-time updates",
+      "fullDescription": "A real-time collaborative task management application built with React, Firebase, and WebSockets. Features drag-and-drop functionality, team collaboration, and automated notifications.",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=800&h=600&fit=crop"
+      ],
+      "technologies": ["React", "Firebase", "TypeScript", "Material-UI"],
+      "featured": true,
+      "links": {
+        "github": "https://github.com",
+        "live": "https://example.com",
+        "details": "https://example.com"
+      }
+    },
+    {
+      "id": "project-3",
+      "title": "IoT Smart Home Hubb",
+      "description": "Smart home automation and device management system",
+      "fullDescription": "A centralized hub for controlling smart home devices with automation rules, voice control integration, and energy monitoring.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop"
+      ],
+      "technologies": ["React", "Python", "MQTT", "WebSocket", "Arduino"],
+      "featured": true,
+      "links": {
+        "github": "https://github.com",
+        "live": "https://example.com",
+        "details": "https://example.com"
+      }
+    },
+    {
+      "id": "project-4",
+      "title": "Weather Dashboard",
+      "description": "Real-time weather tracking with beautiful UI",
+      "fullDescription": "A weather application with real-time data from OpenWeather API, featuring location-based forecasts, hourly updates, and an elegant dark theme interface.",
+      "image": "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=500&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=800&h=600&fit=crop"
+      ],
+      "technologies": ["React", "OpenWeather API", "CSS Grid", "Responsive Design"],
+      "featured": false,
+      "links": {
+        "github": "https://github.com",
+        "live": "https://example.com",
+        "details": "https://example.com"
+      }
+    },
+    {
+      "id": "project-5",
+      "title": "Music Streaming App",
+      "description": "Spotify-like music streaming interface",
+      "fullDescription": "A music streaming application with playlist management, search functionality, and audio player controls. Designed with a dark theme similar to Spotify.",
+      "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800&h=600&fit=crop"
+      ],
+      "technologies": ["React", "Web Audio API", "Tailwind CSS", "Node.js"],
+      "featured": false,
+      "links": {
+        "github": "https://github.com",
+        "live": "https://example.com",
+        "details": "https://example.com"
+      }
+    },
+    {
+      "id": "project-6",
+      "title": "Social Media Dashboard",
+      "description": "Multi-platform social media analytics",
+      "fullDescription": "An analytics dashboard for tracking social media metrics across multiple platforms with real-time data visualization and performance insights.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop"
+      ],
+      "technologies": ["React", "Chart.js", "REST API", "Firebase Auth"],
+      "featured": false,
+      "links": {
+        "github": "https://github.com",
+        "live": "https://example.com",
+        "details": "https://example.com"
+      }
+    },
+    {
+      "id": "project-7",
+      "title": "Video Conferencing Platform",
+      "description": "Real-time video communication with screen sharing",
+      "fullDescription": "A WebRTC-based video conferencing platform with screen sharing, chat, and recording capabilities. Supports multiple participants with HD quality.",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop"
+      ],
+      "technologies": ["React", "WebRTC", "Node.js", "Socket.io", "TypeScript"],
+      "featured": false,
+      "links": {
+        "github": "https://github.com",
+        "live": "https://example.com",
+        "details": "https://example.com"
+      }
+    },
+    {
+      "id": "project-11",
+      "title": "Project Management Tool",
+      "description": "Agile project management with Kanban boards",
+      "fullDescription": "An agile project management solution featuring Kanban boards, sprint planning, time tracking, and team collaboration tools.",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop"
+      ],
+      "technologies": ["Vue.js", "Node.js", "MongoDB", "WebSocket"],
+      "featured": false,
+      "links": {
+        "github": "https://github.com",
+        "live": "https://example.com",
+        "details": "https://example.com"
+      }
+    },
+    {
+      "id": "project-13",
+      "title": "Real Estate Platform",
+      "description": "Property listing and management system",
+      "fullDescription": "A full-featured real estate platform with property listings, virtual tours, agent management, and lead tracking capabilities.",
+      "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=500&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      ],
+      "technologies": ["Next.js", "TypeScript", "GraphQL", "Mapbox", "Stripe"],
+      "featured": false,
+      "links": {
+        "github": "https://github.com",
+        "live": "https://example.com",
+        "details": "https://example.com"
+      }
+    },
+    {
+      "id": "project-14",
+      "title": "Food Delivery App",
+      "description": "On-demand food delivery platform with real-time tracking",
+      "fullDescription": "A complete food delivery application with restaurant management, real-time order tracking, payment integration, and delivery optimization.",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800&h=600&fit=crop"
+      ],
+      "technologies": ["React Native", "Node.js", "MongoDB", "Google Maps API"],
+      "featured": false,
+      "links": {
+        "github": "https://github.com",
+        "live": "https://example.com",
+        "details": "https://example.com"
+      }
+    },
+    {
+      "id": "project-15",
+      "title": "Analytics Dashboard",
+      "description": "Business intelligence and data visualization tool",
+      "fullDescription": "An advanced analytics dashboard with custom reports, real-time data updates, drill-down capabilities, and predictive analytics.",
+      "image": "https://images.unsplash.com/photo-1460925895917-adf4e565db6d?w=500&h=300&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1460925895917-adf4e565db6d?w=800&h=600&fit=crop"
+      ],
+      "technologies": ["React", "D3.js", "Python", "Django", "PostgreSQL"],
+      "featured": false,
+      "links": {
+        "github": "https://github.com",
+        "live": "https://example.com",
+        "details": "https://example.com"
+      }
+    }
+  ]
+}

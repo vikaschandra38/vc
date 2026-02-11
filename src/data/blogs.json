@@ -1,0 +1,68 @@
+{
+  "blogs": [
+    {
+      "id": "blog-1",
+      "title": "Building Scalable React Applications",
+      "snippet": "Learn best practices for structuring large-scale React applications with proper component design patterns and state management strategies.",
+      "content": "This comprehensive guide covers everything you need to know about building scalable React applications. From component composition to state management, we'll explore industry best practices and patterns.",
+      "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&h=300&fit=crop",
+      "date": "2025-12-15",
+      "tags": ["React", "JavaScript", "Performance"],
+      "links": {
+        "read": "https://example.com/blog/react-scalability",
+        "share": {
+          "twitter": "https://twitter.com",
+          "linkedin": "https://linkedin.com"
+        }
+      }
+    },
+    {
+      "id": "blog-2",
+      "title": "CSS Grid vs Flexbox: When to Use What",
+      "snippet": "A deep dive into modern CSS layout techniques and understanding the differences between Grid and Flexbox for different scenarios.",
+      "content": "Choosing between CSS Grid and Flexbox can be confusing. This article breaks down when to use each technique with practical examples.",
+      "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&h=300&fit=crop",
+      "date": "2025-11-20",
+      "tags": ["CSS", "Web Design", "Frontend"],
+      "links": {
+        "read": "https://example.com/blog/grid-vs-flexbox",
+        "share": {
+          "twitter": "https://twitter.com",
+          "linkedin": "https://linkedin.com"
+        }
+      }
+    },
+    {
+      "id": "blog-3",
+      "title": "Web Performance Optimization Tips",
+      "snippet": "Practical strategies to improve your website's load time and overall performance, including image optimization and code splitting.",
+      "content": "Website performance is crucial for user experience. Learn actionable tips to optimize your web applications for speed.",
+      "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&h=300&fit=crop",
+      "date": "2025-10-10",
+      "tags": ["Performance", "Web Development", "Optimization"],
+      "links": {
+        "read": "https://example.com/blog/performance-optimization",
+        "share": {
+          "twitter": "https://twitter.com",
+          "linkedin": "https://linkedin.com"
+        }
+      }
+    },
+    {
+      "id": "blog-4",
+      "title": "Understanding JavaScript Closures",
+      "snippet": "Master one of JavaScript's most important concepts with clear explanations and practical examples of closures in real-world scenarios.",
+      "content": "Closures are a fundamental JavaScript concept that confuse many developers. Let's break it down into simple, understandable pieces.",
+      "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&h=300&fit=crop",
+      "date": "2025-09-05",
+      "tags": ["JavaScript", "Programming", "Fundamentals"],
+      "links": {
+        "read": "https://example.com/blog/javascript-closures",
+        "share": {
+          "twitter": "https://twitter.com",
+          "linkedin": "https://linkedin.com"
+        }
+      }
+    }
+  ]
+}
